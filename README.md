@@ -8,15 +8,20 @@ A file hosting script written in PHP using MySQLi for the DB.
 
 * Allow / disable account creation 
 * Email verification
-* Password reset
+* Forgotten password reset
 * Lock user out after incorrect attempts
 * Password policy enforcement
+* Password / email change
+* Close account feature
+* Ban users (admin account)
 
 ### File management
 
 * Allow password protected downloads
 * Change / remove passwords for files (if logged in)
-* Remove files (if logged in)
+* Remove own files (if logged in)
+* Remove files (admin account)
+* File reporting
 
 ### Customisable
 
