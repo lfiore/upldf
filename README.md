@@ -44,6 +44,10 @@ A file hosting script written in PHP using MySQLi for the DB.
 
 * Give the webserver read and write permissions for the created file storage folder
 
+### After install
+
+* Register a user account for yourself and set "user_admin" to 1 in the databse
+
 ## Demo
 
 You can demo the script at https://upldf.com/
